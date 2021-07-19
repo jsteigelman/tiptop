@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] Improved design with background illustration, color scheme, and new layout
+- [X] Improved design with background illustration, color scheme, and organized layout
 - [X] Improved UI with gesture recognizer that dismisses decimal keyboard when user taps outside of text field 
 - [X] User can split bill and calculate total per person 
 - [X] User can split bill and calculate tip per person 
