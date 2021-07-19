@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *TipTop*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipTop** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Joey Steigelman**
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
