@@ -24,8 +24,8 @@
                                     <constraint firstAttribute="width" constant="2" id="Jhq-0d-BEf"/>
                                 </constraints>
                             </view>
-                            <imageView clipsSubviews="YES" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="Bg4" translatesAutoresizingMaskIntoConstraints="NO" id="gJI-Sn-eOn">
-                                <rect key="frame" x="0.0" y="0.0" width="414" height="415"/>
+                            <imageView clipsSubviews="YES" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Bg4" translatesAutoresizingMaskIntoConstraints="NO" id="gJI-Sn-eOn">
+                                <rect key="frame" x="0.0" y="-98.5" width="414" height="513"/>
                                 <gestureRecognizers/>
                             </imageView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Lwg-i6-39C">
@@ -132,7 +132,7 @@
                                 <rect key="frame" x="215" y="594.5" width="165" height="164"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$0.00" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="14" translatesAutoresizingMaskIntoConstraints="NO" id="zOm-yQ-orX">
-                                        <rect key="frame" x="24" y="50" width="117" height="64"/>
+                                        <rect key="frame" x="24" y="65.5" width="117" height="33.5"/>
                                         <fontDescription key="fontDescription" type="system" weight="medium" pointSize="28"/>
                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
@@ -144,14 +144,13 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
-                                <color key="backgroundColor" red="0.83921568627450982" green="0.792156862745098" blue="0.95686274509803915" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.47450980392156861" green="0.3411764705882353" blue="0.89803921568627454" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstItem="zFI-6B-jHq" firstAttribute="leading" secondItem="Fed-db-XWl" secondAttribute="leading" constant="10" id="MxK-cX-K5a"/>
                                     <constraint firstAttribute="height" constant="164" id="WYh-MX-qOy"/>
                                     <constraint firstItem="zOm-yQ-orX" firstAttribute="leading" secondItem="Fed-db-XWl" secondAttribute="leading" constant="24" id="Wvm-bl-ocH"/>
                                     <constraint firstItem="zOm-yQ-orX" firstAttribute="centerX" secondItem="Fed-db-XWl" secondAttribute="centerX" id="XdH-uv-uUO"/>
                                     <constraint firstItem="zOm-yQ-orX" firstAttribute="centerY" secondItem="Fed-db-XWl" secondAttribute="centerY" id="jF3-dp-l4z"/>
-                                    <constraint firstAttribute="bottom" secondItem="zOm-yQ-orX" secondAttribute="bottom" constant="50" id="o5U-rh-OxY"/>
                                     <constraint firstItem="zFI-6B-jHq" firstAttribute="top" secondItem="Fed-db-XWl" secondAttribute="top" constant="10" id="viQ-Z6-iQh"/>
                                 </constraints>
                             </view>
@@ -245,7 +244,6 @@
                         <constraints>
                             <constraint firstItem="CCK-bO-cl1" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="32" id="4Xn-ad-8Sr"/>
                             <constraint firstItem="Lwg-i6-39C" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="34" id="6vf-mn-Qam"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Lwg-i6-39C" secondAttribute="bottom" constant="64" id="BA4-Uy-LUd"/>
                             <constraint firstItem="Lwg-i6-39C" firstAttribute="top" secondItem="5Ar-wg-wt8" secondAttribute="bottom" constant="32" id="CeA-hX-Kye"/>
                             <constraint firstItem="t6p-cB-xp2" firstAttribute="top" secondItem="FnX-jK-9gW" secondAttribute="bottom" constant="32" id="DcM-fA-Aef"/>
                             <constraint firstItem="LrK-JX-f23" firstAttribute="leading" secondItem="Lwg-i6-39C" secondAttribute="trailing" id="Ix5-D4-x0r"/>
@@ -255,7 +253,6 @@
                             <constraint firstItem="DP7-qX-Zvr" firstAttribute="centerY" secondItem="t6p-cB-xp2" secondAttribute="centerY" id="SCC-TW-Pg0"/>
                             <constraint firstItem="Fed-db-XWl" firstAttribute="leading" secondItem="LrK-JX-f23" secondAttribute="trailing" id="TtT-Y9-SVf"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="LrK-JX-f23" secondAttribute="bottom" constant="64" id="VNk-V4-3fe"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Fed-db-XWl" secondAttribute="bottom" constant="64" id="XWR-BB-dnr"/>
                             <constraint firstItem="5Ar-wg-wt8" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="34" id="daG-cP-36A"/>
                             <constraint firstItem="LrK-JX-f23" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="dno-nY-uWo"/>
                             <constraint firstItem="5Ar-wg-wt8" firstAttribute="top" secondItem="t6p-cB-xp2" secondAttribute="bottom" constant="32" id="hUg-aP-FaW"/>

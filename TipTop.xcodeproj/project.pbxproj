@@ -83,6 +83,7 @@
 				24E77EAF26779BDA006BCA59 /* TipTopTests */,
 				24E77EBA26779BDA006BCA59 /* TipTopUITests */,
 				24E77E9726779BC6006BCA59 /* Products */,
+				24F96A9B26AB1E4800F24505 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,6 +127,13 @@
 				24E77EBD26779BDA006BCA59 /* Info.plist */,
 			);
 			path = TipTopUITests;
+			sourceTree = "<group>";
+		};
+		24F96A9B26AB1E4800F24505 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -436,7 +444,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FFQHZTXM8L;
 				INFOPLIST_FILE = TipTop/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -444,6 +454,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Steigelman.TipTop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -454,7 +465,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FFQHZTXM8L;
 				INFOPLIST_FILE = TipTop/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -462,6 +475,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Steigelman.TipTop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
