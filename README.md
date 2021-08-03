@@ -4,7 +4,7 @@
 
 Simply enter the bill amount to instantly see the calculated tip and the total cost including tip. You can also conveniently split the bill amongst friends!
 
-### Features:
+## Features:
 - Adjustable tip percentage
 - Simple and intuitive user interface
 - Large fonts for clear legibility
