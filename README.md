@@ -18,7 +18,7 @@ Simply enter the bill amount to instantly see the calculated tip and the total c
 - [X] User can split bill and calculate total per person 
 - [X] User can split bill and calculate tip per person 
 - [X] User can tap outside of the bill amount text field to dismiss the decimal keyboard
-- [X] Responsive design maintains UI design across devices (e.g. the background illustration always ends at the vertical center of the "split")
+- [X] Responsive design maintains UI across devices
 
 ## Video Walkthrough
 
