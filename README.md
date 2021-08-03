@@ -22,8 +22,6 @@ Simply enter the bill amount to instantly see the calculated tip and the total c
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
 <img src='https://i.imgur.com/0kANCWt.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 ## License
