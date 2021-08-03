@@ -1,4 +1,4 @@
-# *TipTop* Tip Calculator
+# *TipTop* - Tip Calculator App
 
 **TipTop** is a tip calculator app that makes calculating tips quick and easy!
 
@@ -12,15 +12,14 @@ Features:
 
 ## User Stories
 
-The following **required** functionality is complete:
+The following functionality is implemented:
 
-- [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-- [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-- [X] Improved design with background illustration, color scheme, and organized layout
-- [X] Improved UI with gesture recognizer that dismisses decimal keyboard when user taps outside of text field 
-- [X] Implemented responsive design that maintains UI design across devices (e.g. the background illustration always ends at the vertical center of the "split" card)
 - [X] User can split bill and calculate total per person 
 - [X] User can split bill and calculate tip per person 
+- [X] User can enter a bill amount and immediately see the tip and total values
+- [X] User can adjust the tip percentage and immediately see changes reflected in the tip and total values
+- [X] User can tap outside of the bill amount text field to dismiss the decimal keyboard
+- [X] Responsive design maintains UI design across devices (e.g. the background illustration always ends at the vertical center of the "split")
 
 ## Video Walkthrough
 
