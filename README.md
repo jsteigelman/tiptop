@@ -1,27 +1,21 @@
-# Pre-work - *TipTop*
+*TipTop*
 
-**TipTop** is a tip calculator application for iOS.
+**TipTop** is a tip calculator app that makes calculating tips quick and easy!
 
-Submitted by: **Joey Steigelman**
+Simply enter the bill amount to instantly see the calculated tip and the total cost including tip. You can also conveniently split the bill amongst friends!
 
-Time spent: **8** hours spent in total
+Features:
+- Adjustable tip percentage
+- Simple and intuitive user interface
+- Large fonts for clear legibility
+- Bill splitting amongst any number of guests
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-
-The following **optional** features are implemented:
-
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
+- [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+- [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 - [X] Improved design with background illustration, color scheme, and organized layout
 - [X] Improved UI with gesture recognizer that dismisses decimal keyboard when user taps outside of text field 
 - [X] Implemented responsive design that maintains UI design across devices (e.g. the background illustration always ends at the vertical center of the "split" card)
@@ -33,10 +27,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/0kANCWt.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
