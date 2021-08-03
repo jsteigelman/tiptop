@@ -5,14 +5,13 @@
 Simply enter the bill amount to instantly see the calculated tip and the total cost including tip. You can also conveniently split the bill amongst friends!
 
 ## Features:
+
 - Adjustable tip percentage
 - Simple and intuitive user interface
 - Large fonts for clear legibility
 - Bill splitting amongst any number of guests
 
 ## User Stories
-
-The following functionality is implemented:
 
 - [X] User can enter a bill amount and view the tip and total values
 - [X] User can adjust the tip percentage and immediately see changes reflected in the tip and total values
