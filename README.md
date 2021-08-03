@@ -1,4 +1,4 @@
-*TipTop*
+# *TipTop* Tip Calculator
 
 **TipTop** is a tip calculator app that makes calculating tips quick and easy!
 
